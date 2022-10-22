@@ -1,16 +1,53 @@
-# movie
+# Movie App UI
 
-A new Flutter project.
+It's a single screen Movie App UI made using flutter<br>
+Author - [@dubey2709](https://github.com//dubey2709)
+## Tech Stack
 
-## Getting Started
+**Client:** Flutter, Dart
 
-This project is a starting point for a Flutter application.
+## Environment 
+VSCode or Android Studio
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## App screenshots
+![image](https://user-images.githubusercontent.com/96309032/197356243-7ea4300e-7bf6-4e77-aba8-524c18e8efec.png)
+![image](https://user-images.githubusercontent.com/96309032/197356360-2a47aa5b-6624-47d5-ab1d-65acbee91eae.png)
+
+
+
+## Packages Used (pub.dev) :
+ cupertino_icons: ^1.0.2
+ 
+ 
+## How to Run Locally?
+
+Clone the project
+
+```bash
+  git clone https://github.com/dubey2709/MovieApp_UI.git
+```
+
+Go to your current project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies and run the command in the terminal
+
+```bash
+   flutter pub get
+```
+
+Start the application (Emulator/Physical device)
+
+```bash
+  flutter run 
+```
+
+# Note
+It is not IOS compatible because of developing OS reasons
+
+    
